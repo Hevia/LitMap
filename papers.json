@@ -1,0 +1,57 @@
+{
+    "total": 120693,
+    "offset": 0,
+    "next": 10,
+    "data": [
+        {
+            "paperId": "edffa50a9fd7840b71bad1f9255d42c3e290085b",
+            "title": "Natural Language Processing (NLP)",
+            "abstract": null
+        },
+        {
+            "paperId": "e7569d3899707930abcd4efff56f8a301ef7fed5",
+            "title": "NATURAL LANGUAGE PROCESSING (NLP)",
+            "abstract": "Natural Language Processing (NLP) is an area of research and application that explores how computers can be used to understand and manipulate natural language text or speech to do useful things. NLP researchers aim to gather knowledge on how human beings understand and use language so that appropriate tools  and techniques can be developed to make computer systems  understand and manipulate natural languages to perform the desired tasks. Applications of NLP include a number of fields of studies, such as machine translation, natural language text processing and summarization, user interfaces, multilingual and cross language information retrieval (CUR), speech  recognition,  artificial intelligence and expert systems. Keyword:  natural language processing"
+        },
+        {
+            "paperId": "cb1990cd837ad7f3dfe007da37118a72ca43eec1",
+            "title": "Natural Language Processing (NLP)",
+            "abstract": null
+        },
+        {
+            "paperId": "db528269ef800727245c0fcb35b692d29c1ccdc9",
+            "title": "Natural language processing (NLP) in management research: A literature review",
+            "abstract": "Natural language processing (NLP) is gaining momentum in management research for its ability to automatically analyze and comprehend human language. Yet, despite its extensive application in manage..."
+        },
+        {
+            "paperId": "e0798b5e92e98174541ef16e0b7290e8c541615f",
+            "title": "A Novel Natural Language Processing (NLP)-Based Machine Translation Model for English to Pakistan Sign Language Translation",
+            "abstract": null
+        },
+        {
+            "paperId": "bfd65de371e24b7a6e4314a601d4a204a50cb008",
+            "title": "Artificial Intelligence (AI) in Action: Addressing the COVID-19 Pandemic with Natural Language Processing (NLP)",
+            "abstract": "The COVID-19 (coronavirus disease 2019) pandemic has had a significant impact on society, both because of the serious health effects of COVID-19 and because of public health measures implemented to slow its spread. Many of these difficulties are fundamentally information needs; attempts to address these needs have caused an information overload for both researchers and the public. Natural language processing (NLP)-the branch of artificial intelligence that interprets human language-can be applied to address many of the information needs made urgent by the COVID-19 pandemic. This review surveys approximately 150 NLP studies and more than 50 systems and datasets addressing the COVID-19 pandemic. We detail work on four core NLP tasks: information retrieval, named entity recognition, literature-based discovery, and question answering. We also describe work that directly addresses aspects of the pandemic through four additional tasks: topic modeling, sentiment and emotion analysis, caseload forecasting, and misinformation detection. We conclude by discussing observable trends and remaining challenges."
+        },
+        {
+            "paperId": "40ac39c1356c6968fb416317a893152779ce7b1e",
+            "title": "Natural Language Processing (NLP) for Requirements Engineering: A Systematic Mapping Study",
+            "abstract": "Natural language processing supported requirements engineering is an area of research and development that seeks to apply NLP techniques, tools and resources to a variety of requirements documents or artifacts to support a range of linguistic analysis tasks performed at various RE phases. Such tasks include detecting language issues, identifying key domain concepts and establishing traceability links between requirements. This article surveys the landscape of NLP4RE research to understand the state of the art and identify open problems. The systematic mapping study approach is used to conduct this survey, which identified 404 relevant primary studies and reviewed them according to five research questions, cutting across five aspects of NLP4RE research, concerning the state of the literature, the state of empirical research, the research focus, the state of the practice, and the NLP technologies used. Results: 1) NLP4RE is an active and thriving research area in RE that has amassed a large number of publications and attracted widespread attention from diverse communities; 2) most NLP4RE studies are solution proposals having only been evaluated using a laboratory experiment or an example application; 3) most studies have focused on the analysis phase, with detection as their central linguistic analysis task and requirements specification as their commonly processed document type; 4) 130 new tools have been proposed to support a range of linguistic analysis tasks, but there is little evidence of adoption in the long term, although some industrial applications have been published; 5) 140 NLP techniques, 66 NLP tools and 25 NLP resources are extracted from the selected studies."
+        },
+        {
+            "paperId": "3b23043c7776eb0b5fe0bbf1f9019a4738841ebf",
+            "title": "Natural Language Processing (NLP): An Introduction",
+            "abstract": null
+        },
+        {
+            "paperId": "cbae17234b0da5136bd7d4445cc20de3eeb9614c",
+            "title": "Natural Language Processing (NLP) in Qualitative Public Health Research: A Proof of Concept Study",
+            "abstract": "Qualitative data-analysis methods provide thick, rich descriptions of subjects' thoughts, feelings, and lived experiences but may be time-consuming, labor-intensive, or prone to bias. Natural language processing (NLP) is a machine learning technique from computer science that uses algorithms to analyze textual data. NLP allows processing of large amounts of data almost instantaneously. As researchers become conversant with NLP, it is becoming more frequently employed outside of computer science and shows promise as a tool to analyze qualitative data in public health. This is a proof of concept paper to evaluate the potential of NLP to analyze qualitative data. Specifically, we ask if NLP can support conventional qualitative analysis, and if so, what its role is. We compared a qualitative method of open coding with two forms of NLP, Topic Modeling, and Word2Vec to analyze transcripts from interviews conducted in rural Belize querying men about their health needs. All three methods returned a series of terms that captured ideas and concepts in subjects' responses to interview questions. Open coding returned 5-10 words or short phrases for each question. Topic Modeling returned a series of word-probability pairs that quantified how well a word captured the topic of a response. Word2Vec returned a list of words for each interview question ordered by which words were predicted to best capture the meaning of the passage. For most interview questions, all three methods returned conceptually similar results. NLP may be a useful adjunct to qualitative analysis. NLP may be performed after data have undergone open coding as a check on the accuracy of the codes. Alternatively, researchers can perform NLP prior to open coding and use the results to guide their creation of their codebook."
+        },
+        {
+            "paperId": "ddb327a5824974c03b44118b92812fea3e840e56",
+            "title": "Review on Natural Language Processing (NLP) and Its Toolkits for Opinion Mining and Sentiment Analysis",
+            "abstract": "As the majority of online networking on the Internet, opinion mining has turned into a fundamental way to deal with investigating such huge numbers of information. Different applications show up in an extensive variety of modern areas. In the interim, opinions have various pronunciations which bring along investigate challenges. The research challenges make opinion mining a dynamic research region recently. In this paper, Natural Language Processing (NLP) techniques for opinion mining and sentiment analysis are reviewed. Initially NLP is reviewed then briefed about its common and useful preprocessing steps also. In this paper opinion mining for various levels are analyzed and reviewed. At the end issues are identified and some recommendation are suggested for opinion mining and-sentiment-analysis."
+        }
+    ]
+}

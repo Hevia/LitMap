@@ -1,5 +1,5 @@
 Given a list of scientific keywords/concepts. Please generate other related keywords separated by commas. 
 
-Scientific keywords/concepts: {{$INPUT}}
+Scientific keywords/concepts: {{$RELATED_KEYWORDS}}
 
 Related:

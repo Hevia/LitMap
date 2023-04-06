@@ -1,7 +1,7 @@
-Given a scientific paper, generate a short summary highlighting what it accomplishes, methodology, and conclusions.
+Given a scientific paper, generate a short 2-4 sentence summary highlighting what it accomplishes, methodology, and conclusions. 
 
 Paper:
-{{$INPUT}}
+{{$ABSTRACT}}
 
 
 Summary:

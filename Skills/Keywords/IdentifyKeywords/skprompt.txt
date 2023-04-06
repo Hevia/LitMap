@@ -1,4 +1,4 @@
-Given a scientific research question, generate any scientific keywords/concepts that are related to it, separated by commas.
+Given a scientific research question, generate any scientific keywords/concepts that are related to it, separated by commas. Do not generate repetitive or overly similar words.
 
 Research question: {{$INPUT}}
 
