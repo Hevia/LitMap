@@ -1,0 +1,6 @@
+Given a scientific paper or its summary. Generate {{$COUNT}} future research directions or follow-up questions one could pursue
+
+Paper:
+{{$INPUT}}
+
+Follow-up Questions/Future Research:

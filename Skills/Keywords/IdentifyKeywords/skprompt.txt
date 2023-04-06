@@ -1,0 +1,5 @@
+Given a scientific research question, generate any scientific keywords/concepts that are related to it, separated by commas.
+
+Research question: {{$INPUT}}
+
+Scientific keywords/concepts:
