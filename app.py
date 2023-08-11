@@ -13,7 +13,7 @@ model_trf = AutoModelForTokenClassification.from_pretrained("RJuro/SciNERTopic")
 nlp = pipeline("ner", model=model_trf, tokenizer=tokenizer, aggregation_strategy='average')
 app = typer.Typer()
 
-graph_path = ".litmap/research_graph.sparse6"
+graph_path = ".litmap/research_graph.xml"
 
 
 @app.command()
@@ -55,7 +55,7 @@ def generate():
 
                     # Check to see if the node already exists
                     if not G.has_node(word):
-                        G.add_node(word, type=label)
+                        G.add_node(word, type=label, name=word)
 
                     G.add_edge(file_name, word)
 
@@ -69,7 +69,7 @@ def generate():
     # Enrich the graph with extra information
 
     # Save the graph as a pickle
-    nx.write_sparse6(G, graph_path)    
+    nx.write_graphml(G, graph_path)    
 
 
 @app.command()
